@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Clothes
+comment1.params=
+comment1.target=Clothes()
+comment2.params=size\ brand\ colour\ StockAvailable\ price
+comment2.target=Clothes(double,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

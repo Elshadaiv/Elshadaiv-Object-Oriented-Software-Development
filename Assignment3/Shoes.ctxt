@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shoes
+comment1.params=
+comment1.target=Shoes()
+comment2.params=size\ brand\ colour\ StockAvailable\ price
+comment2.target=Shoes(double,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=java.lang.String\ getbio()
+comment4.params=bio
+comment4.target=void\ setbio(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
